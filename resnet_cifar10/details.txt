@@ -1,0 +1,4 @@
+50data
+50pdata
+
+epoch:50, batch_size:50, learning_rate:0.001
